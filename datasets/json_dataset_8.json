@@ -1,0 +1,77 @@
+{
+  "dataset_id": "json_dataset_8",
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-01-01",
+    "description": "Sample JSON dataset number 8",
+    "tags": [
+      "sample",
+      "test",
+      "dataset_8"
+    ]
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "Record 1 from dataset 8",
+      "value": 20.0,
+      "category": "sample_data",
+      "attributes": {
+        "searchable": true,
+        "priority": "high"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Record 2 from dataset 8",
+      "value": 40.0,
+      "category": "sample_data",
+      "attributes": {
+        "searchable": true,
+        "priority": "normal"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Record 3 from dataset 8",
+      "value": 60.0,
+      "category": "sample_data",
+      "attributes": {
+        "searchable": true,
+        "priority": "high"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Record 4 from dataset 8",
+      "value": 80.0,
+      "category": "sample_data",
+      "attributes": {
+        "searchable": true,
+        "priority": "normal"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Record 5 from dataset 8",
+      "value": 100.0,
+      "category": "sample_data",
+      "attributes": {
+        "searchable": true,
+        "priority": "high"
+      }
+    }
+  ],
+  "summary": {
+    "total_records": 5,
+    "avg_value": 60.0,
+    "categories": [
+      "sample_data"
+    ],
+    "searchable_fields": [
+      "name",
+      "category",
+      "attributes"
+    ]
+  }
+}

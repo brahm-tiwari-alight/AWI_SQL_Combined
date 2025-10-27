@@ -1,0 +1,7 @@
+# AWI SQL Combined Dataset Search Requirements
+# No external dependencies - using only Python standard library
+# This ensures minimal setup and maximum compatibility
+
+# For development and testing (optional)
+# pytest>=7.0.0
+# coverage>=6.0
